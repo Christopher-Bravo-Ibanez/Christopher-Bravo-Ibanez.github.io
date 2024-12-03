@@ -1,11 +1,16 @@
 title: Christopher Bravo # your name (or website title) here
 logo: "/images/headshot.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/christopher-bravo-496a29181/">LinkedIn</a> |
+  <a href="https://github.com/Christopher-Bravo-Ibanez">GitHub</a>
+  </p>
   
+  <p align="justify">
+  I am pursing MS degree in Computer Science at Georgia Tech.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
