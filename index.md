@@ -34,10 +34,11 @@ As a research assistant at the Shenhav Lab, I designed and conducted an experime
 
 ## Academic Projects
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/HatefulMemes.pdf)
+### Hateful Memes Detection
 
-Project Title: Hateful Memes Detection
-Project Description: As part of efforts to detect and flag hateful speech on its platform, Meta launched the [Hateful Memes Challenge](https://ai.meta.com/blog/hateful-memes-challenge-and-data-set/) in 2020, in which participants were tasked with building an AI model to detect hateful content in multimodal memes. For our final project in [Deep Learning](https://omscs.gatech.edu/cs-7643-deep-learning), my group modified and tested a variety of early and intermediate fusion models along with a HateCLIPper architecture based model on the Hateful Memes dataset. By pairing the naive HateCLIPper model with a modified HateCLIPper model (e.g. replacing the Feature Interaction Matrix layer with an Elementwise Fusion Layer), we created an ensemble model which outperformed the naive HateCLIPper model which won the original competition.
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Paper\-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/HatefulMemes.pdf)
+
+As part of efforts to detect and flag hateful speech on its platform, Meta launched the [Hateful Memes Challenge](https://ai.meta.com/blog/hateful-memes-challenge-and-data-set/) in 2020, in which participants were tasked with building an AI model to detect hateful content in multimodal memes. For our final project in [Deep Learning](https://omscs.gatech.edu/cs-7643-deep-learning), my group modified and tested a variety of early and intermediate fusion models along with a HateCLIPper architecture based model on the Hateful Memes dataset. By pairing the naive HateCLIPper model with a modified HateCLIPper model (e.g. replacing the Feature Interaction Matrix layer with an Elementwise Fusion Layer), we created an ensemble model which outperformed the naive HateCLIPper model which won the original competition.
 
 
 
