@@ -10,15 +10,12 @@
 
 This project addresses the growing need for flexibility in shift scheduling, [a challenge exacerbated by the Covid-19 pandemic](https://shift.hks.harvard.edu/wp-content/uploads/2022/01/COVIDUpdate_Brief_Final.pdf). Built for staffing managers, this scheduling tool leverages linear programming to optimize shift assignments based on worker preferences. Managers can specify required staffing levels for each day, and the tool generates schedules that balance employee preferences with cost considerations, including overtime payments.
 
+##### Key Features:
+- Flexible inputs for shift preferences and staffing requirements.  
+- Cost computation that accounts for regular and overtime shifts.  
+- Results in optimized schedules that accommodate worker preferences while meeting staffing demands.
 
-
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
-
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+Planned enhancements include incorporating workplace regulations, such as limits on overtime shifts and prioritizing regular shifts over overtime, for more robust scheduling capabilities.
 
 <center><img src="images/nlp.png"/></center>
 
