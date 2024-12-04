@@ -22,7 +22,7 @@ Planned enhancements include incorporating workplace regulations, such as limits
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
 
-As a research assistant at the Shenhav Lab, I designed and conducted an experiment to explore how rewards influence attentional networks. By modifying the classic [Posner Task](https://www.sciencedirect.com/science/article/abs/pii/S1053811905000984?via%3Dihub), rewards were incorporated into select trials, enabling a comparative analysis of performance on reward versus non-reward trials. The study involved 120 participants and provided insights into the relationship between incentives and cognitive attention.
+As a research assistant at the Shenhav Lab, I designed and conducted an experiment to explore how rewards influence attentional networks. The experiment involved modifying a well-known attention experiment, [Posner Task](https://www.sciencedirect.com/science/article/abs/pii/S1053811905000984?via%3Dihub), by adding rewards to specific blocks of trials. Accuracy and reaction times were compared across blocks to understand the effect of rewards on attention.
 
 ##### Technical Highlights:
 - Developed the experiment interface using HTML, CSS, and JavaScript with the JsPsych cognitive experiment library.
