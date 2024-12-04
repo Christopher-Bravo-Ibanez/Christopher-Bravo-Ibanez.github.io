@@ -15,8 +15,6 @@ This project addresses the growing need for flexibility in shift scheduling, [a 
 
 Planned enhancements include incorporating workplace regulations, such as limits on overtime shifts and prioritizing regular shifts over overtime, for more robust scheduling capabilities.
 
-<center><img src="images/scheduling.png"/></center>
-
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
