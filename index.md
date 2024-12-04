@@ -16,6 +16,23 @@ This project addresses the growing need for flexibility in shift scheduling, [a 
 Planned enhancements include incorporating workplace regulations, such as limits on overtime shifts and prioritizing regular shifts over overtime, for more robust scheduling capabilities.
 
 ---
+## Research Projects
+
+###
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
+
+As a research assistant at the Shenhav Lab, I designed and conducted an experiment to explore how rewards influence attentional networks. By modifying the classic [Posner Task] (https://www.sciencedirect.com/science/article/abs/pii/S1053811905000984?via%3Dihub), rewards were incorporated into select trials, enabling a comparative analysis of performance on reward versus non-reward trials. The study involved 120 participants and provided insights into the relationship between incentives and cognitive attention.
+
+##### Technical Highlights:
+- Developed the experiment interface using HTML, CSS, and JavaScript with the JsPsych cognitive experiment library.
+- Deployed the experiment on Cognition's experiment hosting platform for participation and data collection.
+- Conducted statistical analysis using linear mixed-effects modeling in MATLAB (lmefit and glmefit), employing Satterthwaite approximation to model reaction times and estimate effective degrees of freedom
+
+<center><img src="Posner.png"/></center>
+
+
+
+
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
@@ -93,6 +110,10 @@ Planned enhancements include incorporating workplace regulations, such as limits
 <br>
 
 ---
+
+
+
+
 ## Filmed by me
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
