@@ -19,6 +19,7 @@ Planned enhancements include incorporating workplace regulations, such as limits
 ## Research Projects
 
 ### Investigating the Impact of Rewards on Attentional Networks
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
 
 As a research assistant at the Shenhav Lab, I designed and conducted an experiment to explore how rewards influence attentional networks. By modifying the classic [Posner Task] (https://www.sciencedirect.com/science/article/abs/pii/S1053811905000984?via%3Dihub), rewards were incorporated into select trials, enabling a comparative analysis of performance on reward versus non-reward trials. The study involved 120 participants and provided insights into the relationship between incentives and cognitive attention.
