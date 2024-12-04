@@ -2,13 +2,11 @@
 ---
 ## Personal Projects
 
-### Linear Programming 
-
-#### Optimized Shift Scheduling with Linear Programming
+### Optimized Shift Scheduling with Linear Programming
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
 
-This project addresses the growing need for flexibility in shift scheduling, [a challenge exacerbated by the Covid-19 pandemic](https://shift.hks.harvard.edu/wp-content/uploads/2022/01/COVIDUpdate_Brief_Final.pdf). Built for staffing managers, this scheduling tool leverages linear programming to optimize shift assignments based on worker preferences. Managers can specify required staffing levels for each day, and the tool generates schedules that balance employee preferences with cost considerations, including overtime payments.
+This project addresses the growing need for flexibility in shift scheduling, [a challenge which gained recognition during the Covid-19 pandemic](https://shift.hks.harvard.edu/wp-content/uploads/2022/01/COVIDUpdate_Brief_Final.pdf). Built for staffing managers, this scheduling tool leverages linear programming to optimize shift assignments based on worker preferences. Managers can specify required staffing levels for each day, and the tool generates schedules that balance employee preferences with cost considerations, including overtime payments.
 
 ##### Key Features:
 - Flexible inputs for shift preferences and staffing requirements.  
