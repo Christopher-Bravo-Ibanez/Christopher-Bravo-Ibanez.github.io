@@ -28,7 +28,7 @@ As a research assistant at the Shenhav Lab, I designed and conducted an experime
 - Deployed the experiment on Cognition's experiment hosting platform for participation and data collection.
 - Conducted statistical analysis using linear mixed-effects modeling in MATLAB (lmefit and glmefit), employing Satterthwaite approximation to model reaction times and estimate effective degrees of freedom
 
-<center><img src="Posner.png"/></center>
+<center><img src="images/Posner.png"/></center>
 
 
 
