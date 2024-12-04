@@ -4,7 +4,7 @@
 
 ### Linear Programming 
 
-### Optimized Shift Scheduling with Linear Programming
+#### Optimized Shift Scheduling with Linear Programming
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
 
