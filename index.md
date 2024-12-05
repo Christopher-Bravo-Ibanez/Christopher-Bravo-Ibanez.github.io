@@ -53,12 +53,11 @@ Overall the research demonstrated that training did help the model's ability to 
 
 
 ---
-## Writing
+## Writing Projects
 
 [![View My Articles](https://img.shields.io/badge/Medium-View_My_Articles-grey?logo=medium&labelColor=black)](https://medium.com/@christopher.bravo.ibanez)
 
 <div style="text-align: justify"> As a response to the release of ChatGPT, I wrote a series of articles to understand language models and their impact on the technology sector. </div>
-<br>
 
 - [Will ChatGPT Ever Be Good at Math?](https://medium.com/byte-sized-insights/will-chatgpt-ever-be-good-at-math-c3ad3215b6e7)
 - [Why Companies are Banning ChatGPT](https://medium.com/byte-sized-insights/why-companies-are-banning-chatgpt-e1e54352457c)
