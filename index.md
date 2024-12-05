@@ -55,7 +55,7 @@ Overall the research demonstrated that training did help the model's ability to 
 
 ## Filmed by me
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+[![View My Films](https://img.shields.io/badge/Medium-View_My_Articles-grey?logo=medium&labelColor=FF0000)](https://medium.com/@christopher.bravo.ibanez)
 
 <div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
 <br>
