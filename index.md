@@ -38,10 +38,17 @@ As a research assistant at the Shenhav Lab, I designed and conducted an experime
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/HatefulMemes.pdf)
 
-As part of efforts to detect and flag hateful speech on its platform, Meta launched the [Hateful Memes Challenge](https://ai.meta.com/blog/hateful-memes-challenge-and-data-set/) in 2020, in which participants were tasked with building an AI model to detect hateful content in multimodal memes. For our final project in [Deep Learning (CS7643)](https://omscs.gatech.edu/cs-7643-deep-learning), my group modified and tested a variety of early and intermediate fusion models along with a HateCLIPper architecture based model on the Hateful Memes dataset. By pairing the naive HateCLIPper model with a modified HateCLIPper model (e.g. replacing the Feature Interaction Matrix layer with an Elementwise Fusion Layer), we created an ensemble model which outperformed the naive HateCLIPper model which won the original competition.
+As part of efforts to detect and flag hateful speech on its platform, Meta launched the [Hateful Memes Challenge](https://ai.meta.com/blog/hateful-memes-challenge-and-data-set/) in 2020, in which participants were tasked with building AI models to detect hateful content in multimodal memes. For our final project in [Deep Learning (CS7643)](https://omscs.gatech.edu/cs-7643-deep-learning), my group modified and tested a variety of early and intermediate fusion models along with a HateCLIPper architecture based model on the Hateful Memes dataset. By pairing the naive HateCLIPper model with a modified HateCLIPper model (e.g. replacing the Feature Interaction Matrix layer with an Elementwise Fusion Layer), we created an ensemble model which outperformed the naive HateCLIPper model which won the original competition.
 
+### Evaluating GPT Model Performance on NYT Puzzle Game Connections
 
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Connections.pdf)
 
+As my final project for Georgia Tech's Intro to Cognitive Science course I devised an experiment to assess whether training can improve GPT's performance on the New York Times' puzzle game Connections. In the game, players are presented with 16 words and are tasked with grouping the words into categories based on an underlying semantic connection. Connections in the game can be difficult to detect, designed intentionally to deceive players into falsely grouping words together. For language models such as GPT, this game represents an opportunity to demonstrate how language models can be used to detect more ambiguous relationships between words and whether this detection can be learned.
+
+Overall the research demonstrated that training did help the model's ability to detect connections however the model demonstrated limitations with more ambiguous word connections. The final project identified several hypotheses for why language models may struggle with this task, including language models reliance on word embeddings which conflicts with the game's use of syllable based connections. This area may serve as an avenue for future research, if one built a syllable based model. 
+
+<center><img src="images/Connections.png"/></center>
 
 
 
