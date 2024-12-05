@@ -52,18 +52,18 @@ Overall the research demonstrated that training did help the model's ability to 
 
 
 
+---
+## Writing
 
-## Filmed by me
+[![View My Articles](https://img.shields.io/badge/Medium-View_My_Articles-grey?logo=medium&labelColor=black)](https://medium.com/@christopher.bravo.ibanez)
 
-[![View My Films](https://img.shields.io/badge/Medium-View_My_Articles-grey?logo=medium&labelColor=FF0000)](https://medium.com/@christopher.bravo.ibanez)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+<div style="text-align: justify"> As a response to the release of ChatGPT, I wrote a series of articles to understand language models and their impact on the technology sector. </div>
 <br>
 
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+- [Will ChatGPT Ever Be Good at Math?](https://medium.com/byte-sized-insights/will-chatgpt-ever-be-good-at-math-c3ad3215b6e7)
+- [Why Companies are Banning ChatGPT](https://medium.com/byte-sized-insights/why-companies-are-banning-chatgpt-e1e54352457c)
+- [What Does It Mean For Google To Be A Second Mover](https://medium.com/byte-sized-insights/what-does-it-mean-for-google-to-be-a-second-mover-e8b24ded89dd)
+- [OpenAIs First Mover Advantage](https://medium.com/byte-sized-insights/the-benefits-of-being-first-85656ea19dee)
 
 ---
-<center>© 2024 Christopher Bravo. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2024 Christopher Bravo. Powered by Jekyll and the Minimal Theme.</center>s
