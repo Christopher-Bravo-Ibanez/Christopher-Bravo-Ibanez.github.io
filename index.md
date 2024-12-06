@@ -22,7 +22,7 @@ Planned enhancements include incorporating workplace regulations, such as limits
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
 
-As a research assistant at the Shenhav Lab, I designed and conducted an experiment to explore how rewards influence attentional networks. The experiment involved modifying a well-known attention experiment, [Posner Task](https://www.sciencedirect.com/science/article/abs/pii/S1053811905000984?via%3Dihub), by adding rewards to specific blocks of trials. Accuracy and reaction times were compared across blocks to understand the effect of rewards on attention.
+As a research assistant at the Shenhav Lab, I designed and conducted an experiment to explore how rewards influence attentional networks. The experiment involved modifying a well-known attention experiment, the [Posner Task](https://www.sciencedirect.com/science/article/abs/pii/S1053811905000984?via%3Dihub), by adding rewards to specific blocks of trials. Accuracy and reaction times were compared across blocks to understand the effect of rewards on attention.
 
 ##### Technical Highlights:
 - Developed the experiment interface using HTML, CSS, and JavaScript with the JsPsych cognitive experiment library.
@@ -59,13 +59,13 @@ Overall the research demonstrated that training did help the model's ability to 
 
 [![View My Articles](https://img.shields.io/badge/Medium-View_My_Articles-grey?logo=medium&labelColor=black)](https://medium.com/@christopher.bravo.ibanez)
 
-<div style="text-align: justify"> As a response to the release of ChatGPT, I wrote a series of articles to understand language models and their impact on the technology sector. </div>
+As a response to the release of ChatGPT, I wrote a series of articles to understand language models and their impact on the technology sector.
 
 ##### Featured Articles:
 - [Will ChatGPT Ever Be Good at Math?](https://medium.com/byte-sized-insights/will-chatgpt-ever-be-good-at-math-c3ad3215b6e7)
 - [Why Companies are Banning ChatGPT](https://medium.com/byte-sized-insights/why-companies-are-banning-chatgpt-e1e54352457c)
 - [What Does It Mean For Google To Be A Second Mover](https://medium.com/byte-sized-insights/what-does-it-mean-for-google-to-be-a-second-mover-e8b24ded89dd)
-- [OpenAIs First Mover Advantage](https://medium.com/byte-sized-insights/the-benefits-of-being-first-85656ea19dee)
+- [OpenAI's First Mover Advantage](https://medium.com/byte-sized-insights/the-benefits-of-being-first-85656ea19dee)
 
 ---
 <center>© 2024 Christopher Bravo. Powered by Jekyll and the Minimal Theme.</center>
