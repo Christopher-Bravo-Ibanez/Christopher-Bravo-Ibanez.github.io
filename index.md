@@ -4,7 +4,7 @@
 
 ### Optimized Shift Scheduling with Linear Programming
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
+[![View Web Interface](https://img.shields.io/badge/GitHub-View_Web_Interface-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
 
 This project addresses the growing need for flexibility in shift scheduling, [a challenge which gained recognition during the Covid-19 pandemic](https://shift.hks.harvard.edu/wp-content/uploads/2022/01/COVIDUpdate_Brief_Final.pdf). Built for staffing managers, this scheduling tool leverages linear programming to optimize shift assignments based on worker preferences. Managers can specify required staffing levels for each day, and the tool generates schedules that balance employee preferences with cost considerations, including overtime payments.
 
@@ -20,7 +20,7 @@ Planned enhancements include incorporating workplace regulations, such as limits
 
 ### Investigating the Impact of Rewards on Attentional Networks
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://cbravo8.pythonanywhere.com/input)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Christopher-Bravo-Ibanez/Exploring-Rewards-Influence-on-Posner-Task)
 
 As a research assistant at the Shenhav Lab, I designed and conducted an experiment to explore how rewards influence attentional networks. The experiment involved modifying a well-known attention experiment, the [Posner Task](https://www.sciencedirect.com/science/article/abs/pii/S1053811905000984?via%3Dihub), by adding rewards to specific blocks of trials. Accuracy and reaction times were compared across blocks to understand the effect of rewards on attention.
 
